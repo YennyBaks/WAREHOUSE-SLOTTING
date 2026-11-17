@@ -16,7 +16,7 @@ import slotting as S
 AUTHOR = "Omoyeni Bakinde"
 LINKEDIN = "https://www.linkedin.com/in/omoyeni-bakinde-oguntade-64572983"
 GITHUB_REPO = ""  # e.g. "https://github.com/YennyBaks/warehouse-slotting"
-EMPLOYER_LABEL = "a national beverage manufacturer"  # or your employer's name, if you choose to show it
+EMPLOYER_LABEL = "Sumner Distribution Center"  # or your employer's name, if you choose to show it
 REAL_RESULTS = [  # results from the real project (your resume); shown as context, not computed here
     ("+15%", "order-picking efficiency within 5 months"),
     ("2 days", "faster warehouse data processing"),
